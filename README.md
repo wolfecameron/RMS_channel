@@ -4,7 +4,7 @@ Contains all of the presentation files for the tutorials provided on my "Researc
 #### ./gist
 An overview of Graph Independent Subnetwork Training (GIST), which is a distributed training methodology for graph convolutional networks (GCNs).
 The associated paper is found here (https://arxiv.org/abs/2102.10424).
-A video of the presentation is provided here: 
+A video of the presentation is provided here: https://youtu.be/lc9rYKHkgv0
 
 #### ./chebyshev
 A introduction to using polynomials in the analysis of optimization algorithms, inspired by the series of blog
